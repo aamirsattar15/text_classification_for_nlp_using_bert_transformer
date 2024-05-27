@@ -1,5 +1,6 @@
 # Transformers: Text Classification for NLP using BERT
-This is the repository for the LinkedIn Learning course on `Transformers: Text Classification for NLP using BERT.`
+This is the repository on `Transformers: Text Classification for NLP using BERT.`
+
 ## Installing
 To use these exercise files, you can do any of the following in order of decreasing recommendation:
 1. Open this repository directly in Google colab.
